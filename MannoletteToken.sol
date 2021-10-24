@@ -2,7 +2,7 @@
 pragma solidity ^0.8.3;
 
 /**
- * @title MannoletteToken..
+ * @title MannoletteToken.
  * @dev Token ERC20.. allows authorizing a third party to handle a certain volume of own tokens..
  */
 contract MannoletteToken {
